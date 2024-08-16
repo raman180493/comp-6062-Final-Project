@@ -1,0 +1,44 @@
+body
+{
+    background-color: #F4EEE0;
+    padding: 20px;
+}
+h1
+{
+    color: #393646;
+}
+
+h2
+{
+    color: #4F4557;
+}
+
+p
+{
+    color: #6D5D6E;
+}
+
+footer
+{
+    color: #18122B;
+    padding: 20px;
+}
+
+.button {
+    background: #4F4557;
+    font-family: Arial;
+    color: #F4EEE0;
+    font-size: 13px;
+    padding: 6px 15px 6px 15px;
+  }
+  
+
+@media screen and (max-width: 768px)
+{
+    body
+    {
+        background-color: #757575;
+        color: #18122B;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
